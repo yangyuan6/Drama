@@ -1,9 +1,18 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.8">
   <diagram name="第 1 页" id="egBLcdX35IPSmA7WT4uO">
-    <mxGraphModel>
+    <mxGraphModel dx="1588" dy="577" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ddbW5WqdH6-q980GdxAR-2" value="TG邀请TG关系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367" y="133" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ddbW5WqdH6-q980GdxAR-4" value="钱包邀请钱包" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="131" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ddbW5WqdH6-q980GdxAR-5" value="TG邀请钱包" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="601" y="129" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
